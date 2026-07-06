@@ -1,0 +1,271 @@
+.gd-body{
+    background-color: #ebd0ab;;
+    margin: 0;
+    font-family: 'Segoe UI', 'Poppins', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    font-size:18px;
+}
+
+.gd-navbar{
+    padding:15px 0;
+    background-color:white;
+    box-shadow:0 2px 10px rgba(0,0,0,0.1);
+}
+
+.gd-nav-link{
+    font-weight:500;
+    margin-right:10px;
+}
+.gd-dropdown-menu{
+    z-index: 9999;
+}
+.gd-nav-link:hover{
+    color:#f0a500;
+}
+.gd-navbar {
+    position: relative;
+}
+.gd-text-paw{
+    color: #f0a500;
+    font-weight: bold;
+}
+.gd-hero__contenido h2{
+    font-size:3rem;
+    font-weight:700;
+}
+
+.gd-hero__contenido p{
+    font-size:1.2rem;
+}
+
+.gd-btn-paw{
+    background-color:#f0a500;
+    color:black;
+    font-weight:600;
+    border:none;
+    border-radius:10px;
+}
+
+.gd-btn-paw:hover{
+    background-color:#d89200;
+    color:white;
+}
+
+.gd-carousel{
+    margin-top:80px;
+    margin-bottom:60px;
+}
+
+#carouselExampleControls{
+    width: 90%;
+    margin: 30px auto 50px;
+    position: relative;
+    z-index: 10;
+}
+.carousel-item img{
+    height:550px;
+    object-fit:cover;
+}
+.gd-container h2{
+    font-weight:700;
+    color:#000000;
+}
+
+.gd-card{
+    border:none;
+    border-radius:20px;
+    overflow:hidden;
+    transition:0.3s;
+}
+
+.gd-card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 15px 30px rgba(0,0,0,0.2);
+}
+
+.gd-card-img-top {
+    height: 250px;
+    object-fit: cover;
+}
+
+.gd-bg-light h2{
+    color: #f0a500;;
+    font-weight:700;
+}
+
+.gd-blockquote p{
+    color:#f0a500;
+    font-weight:600;
+}
+
+.gd-blockquote-footer{
+    color:#666;
+    font-size:1rem;
+}
+.gd-product-card{
+    border-radius:20px;
+    overflow:hidden;
+    box-shadow:0 5px 20px rgba(0,0,0,0.1);
+    transition:0.3s;
+}
+
+.gd-product-card:hover{
+    transform:translateY(-10px);
+}
+.gd-center-media{
+    border-radius:20px;
+    box-shadow:0 10px 25px rgba(0,0,0,0.15);
+}
+
+
+.gd-card-img-top{
+    height:300px;
+    object-fit:cover;
+}
+
+.gd-card{
+    border:none;
+    border-radius:20px;
+    overflow:hidden;
+    transition:0.3s;
+}
+
+.gd-card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 15px 30px rgba(0,0,0,0.2);
+}
+
+.gd-table{
+    border-radius:20px;
+    overflow:hidden;
+}
+
+.gd-section{
+    margin-bottom:60px;
+}
+
+.gd-h2{
+    font-size:2rem;
+}
+
+.gd-h3{
+    font-size:1.5rem;
+}
+.gd-card img{
+    height:250px;
+    object-fit:cover;
+}
+.gd-h2{
+    text-align:center;
+    color: rgb(0, 0, 0);
+    margin-bottom:40px;
+}
+.gd-table{
+    font-size:18px;
+}
+.gd-section{
+    margin-bottom:60px;
+}
+
+.gd-products-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    list-style: none;
+    padding: 0;
+}
+
+.gd-product-card{
+    width: 320px;
+    background: white;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+    transition: 0.3s;
+}
+
+.gd-product-card:hover{
+    transform: translateY(-10px);
+}
+
+.gd-product-card img{
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+}
+
+.gd-product-card__body{
+    padding: 20px;
+    text-align: center;
+}
+
+.gd-product-card__precio{
+    color:#f0a500;
+    font-size:20px;
+    font-weight:bold;
+}
+
+.gd-seccion-promo h2{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.gd-seccion-historia{
+    padding: 60px 0;
+}
+
+.gd-servicio-detalle{
+    background: white;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.1);
+}
+
+.gd-center-media{
+    display: block;
+    margin: 30px auto;
+    border-radius: 20px;
+    max-width: 100%;
+}
+
+.gd-tabla-servicio{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.gd-tabla-servicio th{
+    background:#f0a500;
+    color:black;
+}
+
+.gd-tabla-servicio td{
+    padding: 12px;
+    border: 1px solid #ddd;
+}
+
+.gd-tabla-servicio tr:nth-child(even){
+    background: #f8f8f8;
+}
+.gd-accordion-body {
+    background-color: #f8f9fa;
+    font-size: 16px;
+    line-height: 1.7;
+}
+.gd-galeria img{
+    height: 250px;
+    object-fit: cover;
+    transition: 0.3s;
+}
+
+.gd-galeria img:hover{
+    transform: scale(1.05);
+}
+.gd-footer{
+    margin-top:60px;
+}
+
+.gd-footer p{
+    margin-bottom:8px;
+}
